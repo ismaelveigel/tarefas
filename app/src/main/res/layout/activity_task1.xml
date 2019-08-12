@@ -17,7 +17,7 @@
         android:gravity="center"
         android:textColor="#4c43f7"
         android:textSize="23dp"
-        android:text="Tarefas"
+        android:text="Tarefas "
         android:layout_marginTop="25dp"/>
 
     <Button
