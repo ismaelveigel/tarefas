@@ -20,16 +20,23 @@
         android:text="Tarefas "
         android:layout_marginTop="25dp"/>
 
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="tarefaaaa \nasdasdasd"
+
+        android:checked="true"/>
+
     <Button
         android:id="@+id/addtarefa"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="+"
-
         android:layout_marginLeft="300dp"
-        android:layout_marginTop="410dp"
-        android:textSize="30dp"
-        android:textColor="#ffffff"
-        android:background="@drawable/circulo"/>
+
+        android:layout_marginTop="370dp"
+        android:background="@drawable/circulo"
+        android:text="+"
+        android:textColor="#fff"
+        android:textSize="30dp" />
 
 </LinearLayout>
